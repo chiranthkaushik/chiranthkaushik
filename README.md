@@ -1,19 +1,30 @@
-## Hi there 👋
+# Hi, I'm Chiranth 👋
 
-<# Hi, I'm Chiranth 👋
+🎓 4th Semester Computer Science & Design Student at the University of Mysore
 
-🎓 Computer Science & Design student at the University of Mysore
+💻 Passionate about Python, SQL, Data Analytics, and Software Development
 
-💻 Interested in Python, SQL, Data Analytics, and Software Development
+🚀 Currently building projects, learning open source development, and preparing for internship opportunities
 
-🚀 Building projects to strengthen my problem-solving and programming skills
+🌱 Currently Learning:
 
-🌱 Currently learning:
-
-* SQL
-* Data Analysis
+* Data Structures & Algorithms
+* SQL and Database Management
 * Git & GitHub
-* Data Structures and Algorithms
+* Open Source Development (GSSoC)
+
+🎯 Goals for 2026:
+
+* Contribute to open source projects
+* Strengthen DSA and problem-solving skills
+* Build real-world Python and SQL projects
+* Secure a 3-Month Summer Internship
+
+📫 Connect with me:
+
+* LinkedIn
+* GitHub
+
 
 
 
