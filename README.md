@@ -1,51 +1,27 @@
-# Hi, I'm Chiranth 👋
+<h1 align="center">Chiranth R Kaushik</h1>
 
-🎓 4th Semester Computer Science & Design Student at the University of Mysore
+###
 
-💻 Passionate about Python, SQL, Data Analytics, and Software Development
+<h2 align="center">CS & Design Student | Python & SQL | Open Source Learner</h2>
 
-🚀 Currently building projects, learning open source development, and preparing for internship opportunities
+###
 
-🌱 Currently Learning:
+<h3 align="center">🎓 B.E. Computer Science & Design @ University of Mysore<br><br>💻 Building projects with Python, SQL, and Data Structures<br><br>🌱 Currently learning DSA, Git, GitHub, and Open Source Development<br><br>🚀 GSSoC 2026 Contributor Applicant<br><br>🎯 Seeking Summer Internship Opportunities and Real-World Development Experience</h3>
 
-* Data Structures & Algorithms
-* SQL and Database Management
-* Git & GitHub
-* Open Source Development (GSSoC)
-
-🎯 Goals for 2026:
-
-* Contribute to open source projects
-* Strengthen DSA and problem-solving skills
-* Build real-world Python and SQL projects
-* Secure a 3-Month Summer Internship
-
-📫 Connect with me:
-
-* LinkedIn
-* GitHub
-
-
-
-
-
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="60" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
 </div>
 
 ###
@@ -57,5 +33,18 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=chiranthkaushik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+###
