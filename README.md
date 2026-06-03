@@ -35,8 +35,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiranthkaushik&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=chiranthkaushik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiranthkaushik&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiranthkaushik&theme=dracula" height="150" alt="streak" />
 </div>
 
 <br>
