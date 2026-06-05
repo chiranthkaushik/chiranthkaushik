@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
 </div>
 
 <br>
@@ -30,13 +32,14 @@
   <a href="https://www.linkedin.com/in/chiranth-r-kaushik-801959346">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiranthkaushik&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiranthkaushik&theme=dracula" height="150" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiranthkaushik&show_icons=true&theme=dracula&cache_seconds=1800&v=2" height="150" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=chiranthkaushik&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
 </div>
 
 <br>
