@@ -37,8 +37,16 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/pacman-output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/pacman-output/github-contribution-grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chiranthkaushik/chiranthkaushik/pacman-output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiranthkaushik&show_icons=true&theme=dracula&cache_seconds=1800&v=2" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiranthkaushik&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=chiranthkaushik&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
 </div>
 
